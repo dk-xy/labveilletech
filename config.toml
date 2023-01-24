@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://dk-xy.github.io/labveilletech"
 languageCode = "en-us"
 theme = "hugo-paper-main"
 paginate = 5
