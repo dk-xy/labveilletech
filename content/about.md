@@ -4,19 +4,21 @@ date = "2019-01-25"
 author = "Radek"
 +++
 
-# Hi there
+# Hello,
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+ moi c’est **Daniel** ! Mais vous pouvez m’appeler **Dani**… Mon premier ordinateur m’a été offert à 6 ans, je dirais que la description que je vais vous écrire n’a été que la suite logique à ce petit cadeau.
 
-The theme includes:
+Après avoir exploré divers domaines, de l'administration à la restauration, j’ai décidé d’entreprendre des études dans un domaine qui me passionne. Ainsi  j’ai atterrit à la HEIG-VD à Yverdon-les-Bains en Ingénierie des médias.
 
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
+![Mon ikigai](/ikigaidani.png)
 
-So, there you have it... enjoy!
+Ingénieur, plus  **généraliste** que spécialiste, j’avais prévu d’être producteur de contenu média, mais cette idée à bien changé au fil de ma formation, et j'ai décidé de m’orienter dans la **conception d’interface utilisateur**. 
+
+Je me suis également trouvé une petite passion pour la **conception de bases de données**, bien que je m’y étais déjà expérimenté lors de la mise en place de serveurs privés pour des jeux vidéo. Mais, comme pour la musique, je ne me verrais pas entretenir des serveurs pour gagner ma vie.
+
+
+Mes connaissances et mon intérêt pour l’aspect technique de notre domaine me permettront de mieux collaborer avec les différents acteurs pour l’élaboration de projets digitaux, mais j’espère aussi que mon travail se rencontrera un jour à mes passions.
+
+
