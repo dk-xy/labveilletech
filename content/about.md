@@ -13,6 +13,7 @@ author = "Radek"
 Après avoir exploré divers domaines, de l'administration à la restauration, j’ai décidé d’entreprendre des études dans un domaine qui me passionne. Ainsi  j’ai atterrit à la HEIG-VD à Yverdon-les-Bains en Ingénierie des médias.
 
 ![Mon ikigai](/ikigaidani.png)
+[Liens vers mon ikigai](https://drive.google.com/file/d/1TYkxZO7smhlscpkWt_SnqyQk5cRz8-rC/view?usp=share_link)
 
 Ingénieur, plus  **généraliste** que spécialiste, j’avais prévu d’être producteur de contenu média, mais cette idée à bien changé au fil de ma formation, et j'ai décidé de m’orienter dans la **conception d’interface utilisateur**. 
 
