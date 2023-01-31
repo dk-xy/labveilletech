@@ -1,5 +1,5 @@
 ---
-title: "Framing"
+title: "Framing, un coup d'oeil"
 date: 2022-12-12T15:22:29+01:00
 
 ---
