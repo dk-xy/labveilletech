@@ -24,7 +24,7 @@ categories:
 
 
 ## Mes ressources
-J'aime bien parcourir le web à la recherche d'articles pertinents, ou de recherches détaillées, peu importe le domaine. J'ai donc déniché quelques ressources pour le cours.
+J'aime bien parcourir le web à la recherche d'articles pertinents, ou de publications détaillées, peu importe le domaine. J'ai donc déniché quelques ressources pour le cours.
 
 - ### [A List Apart](https://alistapart.com/)
 A commencé en tant que mailing liste en 1997, spécialisé dans le respect des bonnes pratiques du développement web. Ils ont un très grand nombre de contributeurs professionnels écrivant des articles.
@@ -33,6 +33,11 @@ A commencé en tant que mailing liste en 1997, spécialisé dans le respect des 
 Reprend chaque jour 4 à 5 des meilleurs articles dans les domaines du développement web et UI/UX.
 NOTE: Leur site est mort en ce moment, mais pas [leur twitter](https://twitter.com/SidebarIO)
 
+
+## Google
+À l'ère des intelligences artificielles, Google et les autres moteurs de recherches s'avèrent toujours utile.
+Ils permettent de trouver des articles universitaires, ou dans mon cas, des expériences utilisateur éffectuées par d'autres personnes. 
+Lors d'un travaille de groupe, nous sommes tombé en désaccord quant à l'utilisation des mots "remove" et "delete". Une requête à ce moteur a suffit [pour donner réponse à nos questions](https://uxmag.com/articles/ui-copy-remove-vs-delete2-banner) grâce à cet article d'UXMag.
 
 ## Reddit
 Un peu flemmard, j'aime bien quand l'actualité vient à moi. J'aime aussi pouvoir vérifier les sources, etc... mais ça prend du temps, heureusement, Reddit est là pour ça ! La section des commentaires est d'ailleurs parfois plus intéressante que l'article en lui-même.
