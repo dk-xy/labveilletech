@@ -4,13 +4,13 @@ date: 2023-01-05T15:22:29+01:00
 
 ---
 ### **Let websites framebust out of native apps** 
-| Adrian Holovaty
+ Adrian Holovaty
 [Liens de l'article](https://www.holovaty.com/writing/framebust-native-apps/?ref=sidebar)
 
 ## Pourquoi cet article ?
 Le framing, une pratique particulièrement agaçante. Mais qu’est-ce que c’est en quelques mots?
 
-Mais qu’est-ce que ce mot étrange ? Il provient de la balise HTML < frame > permettant d’afficher du contenu indépendant de la page ou elle est située. Un des exemples notables serait les vidéos youtubes pouvant être intégré à des sites à l’aide de < iframe >
+Mais qu’est-ce que ce mot étrange ? Il provient de la balise HTML < frame > permettant d’afficher du contenu indépendant de la page ou elle est située. Un des exemples notables serait les vidéos youtubes pouvant être intégré à des sites à l’aide de la balise < iframe >
 
 ## Qu’est-ce que tu as appris?
 
@@ -29,4 +29,4 @@ Cela impacte négativement l'expérience utilisateur pour plusieurs raisons, la 
  
 ## Que vas-tu faire de cet article?
 
-Il m’a permis de mieux identifier les raisons de l’utilisation d’un tag frame. Il m’apporte des connaissances du côté technique pour mieux prototyper ce genre de projets. Ce qui était fait anciennement fait par framing à été remplacé par les multiples API. Toutefois, nous ne sommes pas à l'abri d’une évolution de l’utilisation du web, et savoir utiliser correctement les frames pourrait s’avérer utile un jour. Pour l’instant, j’en tire principalement les mauvaises pratiques liées à ceux-ci
+Il m’a permis de mieux identifier les raisons de l’utilisation d’un tag frame. Il m’apporte des connaissances du côté technique pour mieux prototyper ce genre de projets. Ce qui était fait anciennement fait par framing à été remplacé par les multiples API. Toutefois, nous ne sommes pas à l'abri d’une évolution de l’utilisation du web, et savoir utiliser correctement les frames pourrait s’avérer utile un jour. Pour l’instant, j’en tire principalement les mauvaises pratiques liées à ceux-ci.

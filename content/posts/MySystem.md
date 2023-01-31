@@ -26,10 +26,10 @@ categories:
 ## Mes ressources
 J'aime bien parcourir le web à la recherche d'articles pertinents, ou de recherches détaillées, peu importe le domaine. J'ai donc déniché quelques ressources pour le cours.
 
-- [A List Apart](https://alistapart.com/)
+- ### [A List Apart](https://alistapart.com/)
 A commencé en tant que mailing liste en 1997, spécialisé dans le respect des bonnes pratiques du développement web. Ils ont un très grand nombre de contributeurs professionnels écrivant des articles.
 
-- [Sidebar.io](https://sidebar.io)
+- ### [Sidebar.io](https://sidebar.io)
 Reprend chaque jour 4 à 5 des meilleurs articles dans les domaines du développement web et UI/UX.
 NOTE: Leur site est mort en ce moment, mais pas [leur twitter](https://twitter.com/SidebarIO)
 
