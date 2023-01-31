@@ -10,7 +10,7 @@ date: 2022-12-12T15:22:29+01:00
 ## Pourquoi cet article ?
 Le framing, une pratique particulièrement agaçante. Mais qu’est-ce que c’est en quelques mots?
 
-Mais qu’est-ce que ce mot étrange ? Il provient de la balise HTML <frame> permettant d’afficher du contenu indépendant de la page ou elle est située. Un des exemple notable serait les vidéos youtubes pouvant être intégré à des sites à l’aide de <iframe>
+Mais qu’est-ce que ce mot étrange ? Il provient de la balise HTML < frame > permettant d’afficher du contenu indépendant de la page ou elle est située. Un des exemple notable serait les vidéos youtubes pouvant être intégré à des sites à l’aide de <iframe>
 
 ## Qu’est-ce que tu as appris?
 
