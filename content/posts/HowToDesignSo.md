@@ -23,4 +23,13 @@ Dans notre époque digitalisée, l’article nous rappelle qu’une rencontre cl
 
 ## Que vais-je en faire?
 
-J’ai notamment repris les points mentionnés pour me préparer à un entretien client, sous forme de checklist, que je peux consulter rapidement sur mon téléphone.
+J’ai notamment repris les points mentionnés pour me préparer à un entretien client, sous forme de check-list, que je peux consulter rapidement sur mon téléphone.
+
+- Montrer son portfolio
+Afin de préparer les attentes du client concernant l'esthétique
+
+- Avoir une longue première conversation
+Poser des questions, écouter, définir les attentes... Il est capital de faire cela au début du projet pour une bonne entente.
+
+- Présenter de petits livrables
+Et ne pas montrer le projet entier une fois fini
