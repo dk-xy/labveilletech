@@ -7,7 +7,7 @@ date: 2023-01-25T15:22:29+01:00
 
 Toutes les expériences que j’avais prévues étaient bien… scolaires, j’ai donc décidé de prendre une ressource de mon “système”, et de l'utiliser comme expérience, car je n'ai jamais trouvé le temps pour justifier ce petit exercice.
 
-https://www.reddit.com/r/UXDesign/comments/10f60m3/figma_widget_are_you_ready_to_embark_on_your/
+[Lien du fil de discussion Reddit](https://www.reddit.com/r/UXDesign/comments/10f60m3/figma_widget_are_you_ready_to_embark_on_your/)
 
 ## Présentation du plugin
 
