@@ -1,7 +1,7 @@
 baseurl = "https://dk-xy.github.io/labveilletech"
 languageCode = "en-us"
 theme = "hugo-paper-main"
-paginate = 5
+paginate = 10
 
 [params]
   contentTypeName = "posts"

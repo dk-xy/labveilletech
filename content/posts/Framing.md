@@ -1,6 +1,6 @@
 ---
 title: "Framing, un coup d'oeil"
-date: 2022-12-12T15:22:29+01:00
+date: 2023-01-05T15:22:29+01:00
 
 ---
 ### **Let websites framebust out of native apps** 

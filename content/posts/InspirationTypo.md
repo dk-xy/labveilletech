@@ -1,4 +1,8 @@
+---
+title: "Inspiration typographique"
+date: 2023-01-12T15:22:29+01:00
 
+---
 
 
 [Lien vers](https://www.reddit.com/r/typography/comments/10it26g/how_do_you_usually_find_your_favorite_fonts/)
